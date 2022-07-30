@@ -10,5 +10,5 @@ import { Component } from '@angular/core'
     styleUrls: ['./topo.component.css']
 })
 export class TopoComponent {
-    public titulo:string = 'Desafio do Fabiano - Quiz Inglês'
+    public titulo:string = 'Desafio do bibinho - Quiz Inglês'
  }
